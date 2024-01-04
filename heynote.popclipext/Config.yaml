@@ -1,0 +1,6 @@
+identifier: dev.a26nine.PopClipExtension.Heynote
+name: Heynote
+description: Add the selected text to Heynote!
+icon: heynote.png
+preserve color: true
+applescript file: heynote.applescript
